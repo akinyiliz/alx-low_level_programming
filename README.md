@@ -1,1 +1,1 @@
-C scripts
+C programming scripts
