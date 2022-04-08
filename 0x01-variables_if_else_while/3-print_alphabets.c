@@ -9,7 +9,6 @@
 int main(void)
 {
 	char ch;
-
 /*alphabet in lowercase*/	
 	for (ch = 'a'; ch <= 'z'; ch++)
 	{
