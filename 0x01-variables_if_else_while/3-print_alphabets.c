@@ -10,13 +10,14 @@ int main(void)
 {
 	char ch;
 
-        /*alphabet in lowercase*/
+        /*alphabet in lowercase*/	
+
 	for (ch = 'a'; ch <= 'z'; ch++)
 	{
 		putchar(ch);
 	}
-	
 	/*alphabet in uppercase*/
+
 	for (ch = 'A'; ch <= 'Z'; ch++)
 	{
 		putchar(ch);
