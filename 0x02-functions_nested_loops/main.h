@@ -1,8 +1,11 @@
-/*_putchar.c*/
+/*prints _putchar*/
 int _putchar(char c);
  
-/*1-alphabet.c*/
+/*prints the alphabet*/
 void print_alphabet(void);
 
-/*2-print_alphabet_x10.c*/
+/*prints 10 times the alphabet*/
 void print_alphabet_x10(void);
+
+/*checks for lowercase character*/
+int _islower(int c);
