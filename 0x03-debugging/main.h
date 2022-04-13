@@ -1,4 +1,4 @@
-/*function prototypes fo Debugging project*/
+/*function pritotypes fo Debugging project*/
 
 #ifndef MAIN_H
 #define MAIN_H
