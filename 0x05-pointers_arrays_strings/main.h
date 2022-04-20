@@ -32,3 +32,6 @@ void print_array(int *a, int n);
 
 /*function that copies the string pointed to by src, including the terminating null byte(\0), to the buffer pointed to by dest*/
 char *_strcpy(char *dest, char *src);
+
+/* function that convert a string to an integer*/
+int _atoi(char *s);
