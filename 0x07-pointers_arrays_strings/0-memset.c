@@ -1,6 +1,7 @@
 #include "main.h"
 
-/**_memset - fills the first n bytes of the memory area
+/**
+ * _memset - fills the first n bytes of the memory area
  * @s: memory area pointed
  * @b: constant byte
  * @n: bytes filled
