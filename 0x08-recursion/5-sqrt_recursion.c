@@ -12,7 +12,7 @@ int find_root(int num, int root)
 	{
 		return (root);
 	}
-	if (root == num /2)
+	if (root == num / 2)
 	{
 		return (-1);
 	}
