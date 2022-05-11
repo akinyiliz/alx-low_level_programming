@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * _atoi_digit - convert a char to integer.
+ * _atoi_digit - converts a character to integer.
  * @x: character to convert.
  * Return: integer.
  **/
