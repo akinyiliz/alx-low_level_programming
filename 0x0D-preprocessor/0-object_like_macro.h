@@ -1,4 +1,4 @@
-#ifdef SIZE_OF
+#ifndef SIZE_OF
 #define SIZE_OF
 
 #define SIZE 1024
