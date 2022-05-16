@@ -52,7 +52,8 @@ int op_div(int a, int b)
 	return (a / b);
 }
 
-*op_mod - returns the remainder of division.
+/**
+  *op_mod - returns the remainder of division.
   *@a: integer.
   *@b: integer.
   *
