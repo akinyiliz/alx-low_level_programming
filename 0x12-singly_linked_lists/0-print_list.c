@@ -2,7 +2,7 @@
 
 
 /**
- * print_list - prints all elements of `list_t` list
+ * print_list - print counter all elements of `list_t` list
  * @h: head of linked list
  * Return: counter number of nodes
  */
