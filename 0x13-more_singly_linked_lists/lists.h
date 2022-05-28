@@ -1,6 +1,7 @@
-/*function prototypes*/
 #ifndef LISTS_H
 #define LISTS_H
+
+/*function prototypes*/
 
 #include <stdlib.h>
 
