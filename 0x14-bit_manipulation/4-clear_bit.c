@@ -7,7 +7,7 @@
  * Return: if ir works -1. If an error occurs - -1.
  */
 
-int clear_bit(unsigned long int *n, unsigned ont index)
+int clear_bit(unsigned long int *n, unsigned int index)
 {
 	unsigned int a;
 
