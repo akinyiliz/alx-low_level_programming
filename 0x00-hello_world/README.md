@@ -3,8 +3,8 @@ In this project, I learnt about compilation of C files using `gcc` and text-prin
 
 ## Tasks
 **0. Preprocessor**
-  * Bash script that runs a C file saved in the variable `$CFILE` and saves the result in an output file `c`. - [0-preprocessor](https://github.com/akinyiliz/alx-low_level_programming/blob/master/0x00-hello_world/0-preprocessor).
-**1. Compiler**
+* Bash script that runs a C file saved in the variable `$CFILE` and saves the result in an output file `c`. - [0-preprocessor](https://github.com/akinyiliz/alx-low_level_programming/blob/master/0x00-hello_world/0-preprocessor).
+* **1. Compiler**
   * Bash script that compiles a C file saved in the variable `$CFILE` but does not link; the output file is named the same as the C file but with the extension `.o` instead of `.c`. - [1-compiler](https://github.com/akinyiliz/alx-low_level_programming/blob/master/0x00-hello_world/1-compiler).
 **2. Assembler**
   * Bash script that generates the assembly code of a C code saved in the variable `$CFILE`; the output file is named the same as the C file but with the extension `.s` instead of `.c`. - [2-assembler](https://github.com/akinyiliz/alx-low_level_programming/blob/master/0x00-hello_world/2-assembler).
