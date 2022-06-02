@@ -1,5 +1,5 @@
 # 0x00. C - Hello, World
-In this project, I learnt about compilation of C files using `gcc` and text-printinf functions in C.
+In this project, I learnt about compilation of C files using `gcc` and text-printing functions in C.
 
 ## Tasks
 **0. Preprocessor**
