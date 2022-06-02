@@ -1,5 +1,5 @@
 # Low-Level Programming - C Programming Language, Data Structure & Algorithms.
----
+
 This repository contains programs done for the low-level programming track for ALX Software Engineering program. They are written using C language with Linux/Unix System commands. I am also learning other low-level programming concepts like data structures and algorithms.
 
 1. [0x00. C - Hello, World](https://github.com/akinyiliz/alx-low_level_programming/tree/master/0x00-hello_world)
@@ -23,6 +23,6 @@ This repository contains programs done for the low-level programming track for A
 19. [0x12-singly_linked_lists](https://github.com/akinyiliz/alx-low_level_programming/tree/master/0x12-singly_linked_lists)
 20. [0x13-more_singly_linked_lists](https://github.com/akinyiliz/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists)
 21. [0x14-bit_manipulation](https://github.com/akinyiliz/alx-low_level_programming/tree/master/0x14-bit_manipulation)
----
+
 # Author
-..* [Elizabeth A. Odhiambo](https://github.com/akinyiliz)
+[Elizabeth A. Odhiambo](https://github.com/akinyiliz)
